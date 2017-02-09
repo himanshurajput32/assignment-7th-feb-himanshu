@@ -1,0 +1,50 @@
+button{
+    color:white;
+    background-color:black;
+    margin-left:60px;
+    font-size:20px
+    }
+
+    .h1{
+    color:white;
+    margin-left:500px;
+    margin-top:20px;
+    font-size:50px;
+
+   }
+   .div1{
+   height:40px;
+   background-color:#FFE3A9;
+   pading:20px;
+   }
+   .div2{
+   background-color:#333333;
+   height:150px;
+   }
+
+   .p1{
+   color:white;
+   margin-left:450px;
+   }
+   .h2{
+   color:white;
+    margin-left:50px;
+    font-size:20px;
+   }
+   .h3{
+   color:white;
+    margin-left:50px;
+    margin-top:10px;
+    font-size:20px;
+   }
+   .div3{
+   background-color:black;
+   height:50px;
+   }
+   .div4{
+   background-color:black;
+   height:50px;
+   }
+   a{
+   color:white;
+   }
